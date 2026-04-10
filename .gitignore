@@ -7,3 +7,5 @@ venv/
 .env
 .chroma/
 .streamlit/
+*.pdf
+docs/
